@@ -1,0 +1,38 @@
+{
+  "_readme": "Edit this file to change what the radar looks for. Patterns are case-insensitive regular expressions.",
+
+  "role_families": {
+    "RevOps": ["revenue operations", "\\brev ?ops\\b"],
+    "GTM Ops": ["\\bgtm (operations|ops)\\b", "go[- ]to[- ]market (operations|ops)"],
+    "GTM Strategy": ["\\bgtm (strategy|strategist|analyst|associate)\\b", "go[- ]to[- ]market (strategy|strategist|analyst|associate)"],
+    "Sales/Marketing Ops": ["\\b(sales|marketing|growth|partner|channel|customer success|cs|commercial) (operations|ops)\\b", "\\b(sales|marketing) (strategy|systems) (&|and) (operations|ops)\\b", "\\bsales ?ops\\b", "\\bmarketing ?ops\\b"],
+    "BizOps": ["\\bbiz ?ops\\b", "\\bbusiness operations\\b"],
+    "Strategy & Ops": ["\\bstrategy (&|and|\\+) ?(operations|ops)\\b", "\\bstrat ?ops\\b", "\\bs&o\\b", "\\bstrategy analyst\\b", "\\bstrategy associate\\b", "\\bstrategic operations\\b"]
+  },
+
+  "title_exclude": ["\\bsenior\\b", "\\bsr\\.?\\b", "\\bstaff\\b", "\\bprincipal\\b", "\\blead\\b", "\\bmanager\\b", "\\bdirector\\b", "\\bhead of\\b", "\\bvp\\b", "vice president", "\\bchief\\b", "\\b(ii|iii|iv)\\b", "\\b(analyst|associate|specialist) (2|3|4)\\b", "\\barchitect\\b", "\\bengineer\\b", "\\bdeveloper\\b", "\\badministrator\\b", "\\badmin\\b", "\\baccount executive\\b", "\\bsales development\\b", "\\bsdr\\b", "\\bbdr\\b", "\\bpart[- ]time\\b"],
+
+  "location_include": ["austin"],
+  "remote_us_patterns": ["remote", "united states", "\\busa?\\b", "anywhere"],
+  "keep_remote_us": true,
+
+  "healthcare_terms": ["patient", "clinical", "hipaa", "healthcare", "health care", "hospital", "pharma", "biotech", "medical device", "payer", "providers?\\b.*\\bnetwork", "health plan", "life sciences"],
+  "healthcare_threshold": 4,
+
+  "max_years_required": 2,
+
+  "entry_signals": ["new grad", "new graduate", "recent grad", "recent graduate", "entry[- ]level", "early[- ]career", "university grad", "class of 2027", "\\b2027\\b", "0[-–]2 years", "0[-–]1 years?", "1[-–]2 years", "no experience required", "rotational"],
+
+  "intern_patterns": ["\\bintern\\b", "\\binternship\\b", "\\bco-?op\\b"],
+  "intern_postgrad_risk": ["returning to school", "return to school", "rising (junior|senior)", "currently enrolled.{0,60}(after|following|upon completion)", "graduat(e|ion) (date )?(between|in|after) (dec(ember)? 2027|2028|fall 2027)", "pursuing .{0,40}degree.{0,60}(2028|december 2027)"],
+
+  "resume_keywords": {
+    "sql": 4, "salesforce": 4, "hubspot": 5, "clay": 4, "apollo": 4, "excel": 2, "python": 3, "snowflake": 4,
+    "tableau": 2, "looker": 2, "power bi": 2, "zoominfo": 2, "outreach": 1, "salesloft": 2, "gong": 1,
+    "crm": 3, "data hygiene": 4, "b2b saas": 3, "saas": 2, "pipeline": 2, "forecast": 2, "lead routing": 3,
+    "enrichment": 3, "attribution": 2, "funnel": 2, "dashboards?": 2, "automation": 2, "machine learning": 1,
+    "a/b test": 2, "go-to-market": 2, "territory": 2, "quota": 1
+  },
+
+  "alert_min_score": 70
+}
