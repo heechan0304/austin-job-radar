@@ -1,5 +1,5 @@
 {
- "active_jobs": 24,
+ "active_jobs": 23,
  "companies_checked": 209,
  "companies_ok": 202,
  "jobs": {
@@ -16,7 +16,7 @@
    "id": "ashby:base-power:35b85c17-d6bc-4645-83f0-782049febce7",
    "industry": "Energy technology / software platform",
    "key": "8e7a770f3799b05e",
-   "last_seen": "2026-10-29T13:02:47.178923+00:00",
+   "last_seen": "2026-10-29T20:19:21.762897+00:00",
    "location": "Austin, TX",
    "location_type": "Austin",
    "matched_skills": [
@@ -42,7 +42,7 @@
    "id": "ashby:base-power:4329a64f-3d9c-46a3-9bf8-4daeb7dce70a",
    "industry": "Energy technology / software platform",
    "key": "8d1b3de39c121039",
-   "last_seen": "2026-10-29T13:02:47.178923+00:00",
+   "last_seen": "2026-10-29T20:19:21.762897+00:00",
    "location": "Austin, TX",
    "location_type": "Austin",
    "matched_skills": [
@@ -70,15 +70,19 @@
    "id": "ashby:base-power:790b1775-b432-482f-882f-fb1736a04f35",
    "industry": "Energy technology / software platform",
    "key": "9d4024df3994e96b",
-   "last_seen": "2026-10-29T13:02:47.178923+00:00",
+   "last_seen": "2026-10-29T20:19:21.762897+00:00",
    "location": "Austin, TX",
    "location_type": "Austin",
-   "matched_skills": [],
+   "matched_skills": [
+    "sql",
+    "excel",
+    "forecast"
+   ],
    "posted": "2026-07-31T23:09:31.178000+00:00",
-   "score": 50,
+   "score": 58,
    "snippet": "ABOUT BASE\n\nBase is America\u2019s next-generation power company. We\u2019re rebuilding the foundation of modern civilization\u2013electricity\u2013by deploying a vast network of distributed batteries that is transforming today\u2019s fragile, centralized grid into a resilient and abundant system. We are engineers, operators, and creatives solving some of the most complex, interdisciplinary challenges of our time.\n\n\n\n\nABO",
    "source": "ashby",
-   "title": "Business Operations",
+   "title": "Finance & Business Operations",
    "type": "Full-time",
    "url": "https://jobs.ashbyhq.com/base-power/790b1775-b432-482f-882f-fb1736a04f35",
    "years_required": null
@@ -93,7 +97,7 @@
    "id": "ashby:base-power:942de53d-3698-49c1-baad-f8794c6f842c",
    "industry": "Energy technology / software platform",
    "key": "64393bb9a3c4f18b",
-   "last_seen": "2026-10-29T13:02:47.178923+00:00",
+   "last_seen": "2026-10-29T20:19:21.762897+00:00",
    "location": "Austin, TX",
    "location_type": "Austin",
    "matched_skills": [
@@ -125,7 +129,7 @@
    "id": "ashby:base-power:aadaba76-ee6a-4673-a972-0505ae74a7b8",
    "industry": "Energy technology / software platform",
    "key": "121a231eade60696",
-   "last_seen": "2026-10-29T13:02:47.178923+00:00",
+   "last_seen": "2026-10-29T20:19:21.762897+00:00",
    "location": "Austin, TX",
    "location_type": "Austin",
    "matched_skills": [
@@ -151,7 +155,7 @@
    "id": "ashby:base-power:db6bb778-21d3-47d1-8f97-a42543f88b8f",
    "industry": "Energy technology / software platform",
    "key": "b711d8ad2d9b371c",
-   "last_seen": "2026-10-29T13:02:47.178923+00:00",
+   "last_seen": "2026-10-29T20:19:21.762897+00:00",
    "location": "Austin, TX",
    "location_type": "Austin",
    "matched_skills": [
@@ -179,7 +183,7 @@
    "id": "ashby:base-power:dd564fc5-e380-49d2-a0b4-8fce4f59c6a4",
    "industry": "Energy technology / software platform",
    "key": "1a4fef15d5141601",
-   "last_seen": "2026-10-29T13:02:47.178923+00:00",
+   "last_seen": "2026-10-29T20:19:21.762897+00:00",
    "location": "Austin, TX",
    "location_type": "Austin",
    "matched_skills": [
@@ -209,7 +213,7 @@
    "id": "ashby:base-power:f9607bef-8420-4270-b66b-9c87b81ff8d7",
    "industry": "Energy technology / software platform",
    "key": "3ba36f2cc2eee173",
-   "last_seen": "2026-10-29T13:02:47.178923+00:00",
+   "last_seen": "2026-10-29T20:19:21.762897+00:00",
    "location": "Austin, TX",
    "location_type": "Austin",
    "matched_skills": [
@@ -240,7 +244,7 @@
    "id": "ashby:base-power:fb2f7d86-6444-4fff-b1ef-358eb6499443",
    "industry": "Energy technology / software platform",
    "key": "9906b234b746a466",
-   "last_seen": "2026-10-29T13:02:47.178923+00:00",
+   "last_seen": "2026-10-29T20:19:21.762897+00:00",
    "location": "Austin, TX",
    "location_type": "Austin",
    "matched_skills": [
@@ -269,7 +273,7 @@
    "id": "ashby:cohere:f3290fb2-66f1-44c7-9824-3f416f44af5a",
    "industry": "Artificial intelligence and enterprise software",
    "key": "e5f856548dffc3e3",
-   "last_seen": "2026-10-29T13:02:47.178923+00:00",
+   "last_seen": "2026-10-29T20:19:21.762897+00:00",
    "location": "Toronto, New York, Remote",
    "location_type": "Remote (US)",
    "matched_skills": [
@@ -301,7 +305,7 @@
    "id": "ashby:fluidstack:821fdf35-818a-4d17-8f50-21c41f802aa6",
    "industry": "AI cloud infrastructure",
    "key": "f2c7596e2855a34b",
-   "last_seen": "2026-10-29T13:02:47.178923+00:00",
+   "last_seen": "2026-10-29T20:19:21.762897+00:00",
    "location": "New York, NY, San Francisco, CA, Austin, TX",
    "location_type": "Austin",
    "matched_skills": [
@@ -329,7 +333,7 @@
    "id": "ashby:light:3020e1a2-5122-46ba-b180-5d45c1321509",
    "industry": "Energy SaaS / utility API",
    "key": "d0c432798565afc7",
-   "last_seen": "2026-10-29T13:02:47.178923+00:00",
+   "last_seen": "2026-10-29T20:19:21.762897+00:00",
    "location": "Austin",
    "location_type": "Austin",
    "matched_skills": [
@@ -347,7 +351,7 @@
    "years_required": null
   },
   "ashby:mudflap:d42c22ff-2607-45a0-b1bb-5991fc586e0b": {
-   "active": true,
+   "active": false,
    "company": "Mudflap",
    "entry_level_signal": false,
    "family": "RevOps",
@@ -386,7 +390,7 @@
    "id": "ashby:skimmer:88e163e1-b77f-48d1-9c1c-950afc806bab",
    "industry": "Pool-service software",
    "key": "e91a9055649fafcf",
-   "last_seen": "2026-10-29T13:02:47.178923+00:00",
+   "last_seen": "2026-10-29T20:19:21.762897+00:00",
    "location": "Austin , Toronto, Remote",
    "location_type": "Austin / Remote",
    "matched_skills": [
@@ -418,7 +422,7 @@
    "id": "ashby:upguard:7e737830-9754-4a61-9664-f76155555546",
    "industry": "Cybersecurity / supply chain risk management software",
    "key": "d303ce4d2fbd77ac",
-   "last_seen": "2026-10-29T13:02:47.178923+00:00",
+   "last_seen": "2026-10-29T20:19:21.762897+00:00",
    "location": "Manila, Remote",
    "location_type": "Remote (US)",
    "matched_skills": [
@@ -449,7 +453,7 @@
    "id": "greenhouse:apptronik:6227425004",
    "industry": "Robotics / AI",
    "key": "77c5f9413c187e32",
-   "last_seen": "2026-10-29T13:02:47.178923+00:00",
+   "last_seen": "2026-10-29T20:19:21.762897+00:00",
    "location": "Remote US, Austin, TX",
    "location_type": "Austin / Remote",
    "matched_skills": [
@@ -478,7 +482,7 @@
    "id": "greenhouse:cloudflare:8278383",
    "industry": "cloud connectivity/cybersecurity",
    "key": "c046808d8a3ae915",
-   "last_seen": "2026-10-29T13:02:47.178923+00:00",
+   "last_seen": "2026-10-29T20:19:21.762897+00:00",
    "location": "Hybrid, Austin, TX, United States",
    "location_type": "Austin (Hybrid)",
    "matched_skills": [
@@ -506,7 +510,7 @@
    "id": "greenhouse:doordashusa:8176875",
    "industry": "Delivery marketplace",
    "key": "513f2bb6005f19d0",
-   "last_seen": "2026-10-29T13:02:47.178923+00:00",
+   "last_seen": "2026-10-29T20:19:21.762897+00:00",
    "location": "Austin, TX; Washington, D.C; Seattle, WA; Los Angeles, CA; Chicago, IL; Tempe, AZ, Austin, TX",
    "location_type": "Austin",
    "matched_skills": [
@@ -535,7 +539,7 @@
    "id": "greenhouse:doordashusa:8200957",
    "industry": "Delivery marketplace",
    "key": "854f2e3e20d9592f",
-   "last_seen": "2026-10-29T13:02:47.178923+00:00",
+   "last_seen": "2026-10-29T20:19:21.762897+00:00",
    "location": "New York, NY; Austin, TX; Chicago, IL; San Francisco, CA; Seattle, WA, New York",
    "location_type": "Austin",
    "matched_skills": [
@@ -565,7 +569,7 @@
    "id": "greenhouse:flyzipline:7980889003",
    "industry": "Drone logistics / delivery",
    "key": "f311b02411a0e55b",
-   "last_seen": "2026-10-29T13:02:47.178923+00:00",
+   "last_seen": "2026-10-29T20:19:21.762897+00:00",
    "location": "Austin, Texas, USA; Houston, Texas, USA; Phoenix, Arizona, USA; San Antonio, Texas, USA, Austin, Texas, United States, Houston, Texas, United States, Phoenix, A",
    "location_type": "Austin",
    "matched_skills": [
@@ -594,7 +598,7 @@
    "id": "greenhouse:flyzipline:7982296003",
    "industry": "Drone logistics / delivery",
    "key": "40581eeb03ae007f",
-   "last_seen": "2026-10-29T13:02:47.178923+00:00",
+   "last_seen": "2026-10-29T20:19:21.762897+00:00",
    "location": "Austin, Texas, USA; Houston, Texas, USA; Phoenix, Arizona, USA; San Antonio, Texas, USA, Austin, Texas, United States, Houston, Texas, United States, Phoenix, A",
    "location_type": "Austin",
    "matched_skills": [
@@ -621,7 +625,7 @@
    "id": "greenhouse:talkdesk2:8186832",
    "industry": "Customer-experience SaaS",
    "key": "9aa1d89e269f0a7b",
-   "last_seen": "2026-10-29T13:02:47.178923+00:00",
+   "last_seen": "2026-10-29T20:19:21.762897+00:00",
    "location": "Remote, USA (Remote)",
    "location_type": "Remote (US)",
    "matched_skills": [
@@ -653,7 +657,7 @@
    "id": "lever:CesiumAstro:d7a3ee1e-86fc-4fdb-9e3e-0469499591bd",
    "industry": "aerospace technology",
    "key": "ae429c5124530ae8",
-   "last_seen": "2026-10-29T13:02:47.178923+00:00",
+   "last_seen": "2026-10-29T20:19:21.762897+00:00",
    "location": "Austin, TX",
    "location_type": "Austin",
    "matched_skills": [
@@ -680,7 +684,7 @@
    "id": "workday:procore.wd12.myworkdayjobs.com/Procore_External_Careers:/job/US---Texas---Austin/Revenue-Operations-Analyst_R0018857",
    "industry": "Construction software",
    "key": "19c4da3da35c7a35",
-   "last_seen": "2026-10-29T13:02:47.178923+00:00",
+   "last_seen": "2026-10-29T20:19:21.762897+00:00",
    "location": "US - Texas - Austin",
    "location_type": "Austin",
    "matched_skills": [
@@ -704,5 +708,5 @@
   }
  },
  "new_this_run": 0,
- "updated_at": "2026-10-29T13:02:47.178923+00:00"
+ "updated_at": "2026-10-29T20:19:21.762897+00:00"
 }
