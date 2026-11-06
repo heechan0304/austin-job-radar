@@ -13,15 +13,15 @@
    "board": "2k",
    "matched": 0,
    "ok": true,
-   "seconds": 0.3,
-   "total": 82
+   "seconds": 0.5,
+   "total": 84
   },
   "6sense": {
    "ats": "greenhouse",
    "board": "6sense",
    "matched": 0,
    "ok": true,
-   "seconds": 0.2,
+   "seconds": 0.5,
    "total": 34
   },
   "AWL (All Web Leads)": {
@@ -37,7 +37,7 @@
    "board": "Abode%20Money",
    "matched": 0,
    "ok": true,
-   "seconds": 0.2,
+   "seconds": 0.3,
    "total": 11
   },
   "Aceable": {
@@ -45,7 +45,7 @@
    "board": "aceable",
    "matched": 0,
    "ok": true,
-   "seconds": 0.2,
+   "seconds": 0.4,
    "total": 0
   },
   "Adthena": {
@@ -53,7 +53,7 @@
    "board": "adthena",
    "matched": 0,
    "ok": true,
-   "seconds": 0.1,
+   "seconds": 0.4,
    "total": 10
   },
   "Airtable": {
@@ -61,7 +61,7 @@
    "board": "airtable",
    "matched": 0,
    "ok": true,
-   "seconds": 0.2,
+   "seconds": 0.4,
    "total": 5
   },
   "Airwallex": {
@@ -69,15 +69,15 @@
    "board": "airwallex",
    "matched": 0,
    "ok": true,
-   "seconds": 0.6,
-   "total": 491
+   "seconds": 0.8,
+   "total": 492
   },
   "AlertMedia": {
    "ats": "greenhouse",
    "board": "alertmedia",
    "matched": 0,
    "ok": true,
-   "seconds": 0.3,
+   "seconds": 0.4,
    "total": 19
   },
   "Allen Control Systems": {
@@ -85,7 +85,7 @@
    "board": "allen-control-systems",
    "matched": 0,
    "ok": true,
-   "seconds": 0.2,
+   "seconds": 0.3,
    "total": 17
   },
   "Ambiq": {
@@ -107,8 +107,8 @@
    "board": "apolloio",
    "matched": 0,
    "ok": true,
-   "seconds": 0.3,
-   "total": 51
+   "seconds": 0.2,
+   "total": 50
   },
   "Apptronik": {
    "ats": "greenhouse",
@@ -116,23 +116,23 @@
    "matched": 1,
    "ok": true,
    "seconds": 0.3,
-   "total": 89
+   "total": 90
   },
   "Arista Networks": {
    "ats": "smartrecruiters",
    "board": "aristanetworks",
    "matched": 0,
    "ok": true,
-   "seconds": 1.8,
-   "total": 236
+   "seconds": 1.6,
+   "total": 235
   },
   "Arrive Logistics": {
    "ats": "lever",
    "board": "arrivelogistics",
    "matched": 0,
    "ok": true,
-   "seconds": 1.1,
-   "total": 49
+   "seconds": 0.6,
+   "total": 50
   },
   "Asure Software": {
    "ats": "smartrecruiters",
@@ -147,8 +147,8 @@
    "board": "auctane",
    "matched": 0,
    "ok": true,
-   "seconds": 0.1,
-   "total": 23
+   "seconds": 0.2,
+   "total": 24
   },
   "Austin Sensing Company": {
    "ats": "ashby",
@@ -163,7 +163,7 @@
    "board": "avride",
    "matched": 0,
    "ok": true,
-   "seconds": 0.3,
+   "seconds": 0.2,
    "total": 45
   },
   "Backflip": {
@@ -171,7 +171,7 @@
    "board": "backflip",
    "matched": 0,
    "ok": true,
-   "seconds": 0.2,
+   "seconds": 0.1,
    "total": 2
   },
   "Base Power Company": {
@@ -180,22 +180,22 @@
    "matched": 8,
    "ok": true,
    "seconds": 0.2,
-   "total": 195
+   "total": 198
   },
   "Bazaarvoice": {
    "ats": "lever",
    "board": "bazaarvoice",
    "matched": 0,
    "ok": true,
-   "seconds": 0.7,
-   "total": 10
+   "seconds": 0.6,
+   "total": 11
   },
   "BetterUp": {
    "ats": "ashby",
    "board": "betterup",
    "matched": 0,
    "ok": true,
-   "seconds": 0.2,
+   "seconds": 0.1,
    "total": 7
   },
   "BigCommerce": {
@@ -203,7 +203,7 @@
    "board": "bigcommerce.wd12.myworkdayjobs.com/Commerce",
    "matched": 0,
    "ok": true,
-   "seconds": 4.2,
+   "seconds": 3.1,
    "total": 19
   },
   "Boom": {
@@ -219,8 +219,8 @@
    "board": "boxinc",
    "matched": 0,
    "ok": true,
-   "seconds": 0.2,
-   "total": 129
+   "seconds": 0.3,
+   "total": 138
   },
   "Braze": {
    "ats": "greenhouse",
@@ -228,14 +228,14 @@
    "matched": 0,
    "ok": true,
    "seconds": 0.7,
-   "total": 361
+   "total": 359
   },
   "Brevo": {
    "ats": "lever",
    "board": "brevo",
    "matched": 0,
    "ok": true,
-   "seconds": 0.7,
+   "seconds": 0.6,
    "total": 28
   },
   "Brex": {
@@ -244,14 +244,14 @@
    "matched": 0,
    "ok": true,
    "seconds": 0.3,
-   "total": 272
+   "total": 268
   },
   "Bumble": {
    "ats": "lever",
    "board": "bumbleinc",
    "matched": 0,
    "ok": true,
-   "seconds": 0.4,
+   "seconds": 0.5,
    "total": 0
   },
   "BusPatrol": {
@@ -260,7 +260,7 @@
    "matched": 0,
    "ok": true,
    "seconds": 0.1,
-   "total": 16
+   "total": 23
   },
   "Canva": {
    "ats": "smartrecruiters",
@@ -275,7 +275,7 @@
    "board": "captivateiq",
    "matched": 0,
    "ok": true,
-   "seconds": 0.7,
+   "seconds": 0.5,
    "total": 22
   },
   "Cart.com": {
@@ -284,23 +284,23 @@
    "matched": 0,
    "ok": true,
    "seconds": 3.0,
-   "total": 27
+   "total": 28
   },
   "Century Communities": {
    "ats": "greenhouse",
    "board": "centurycommunitiesinc",
    "matched": 0,
    "ok": true,
-   "seconds": 0.2,
-   "total": 25
+   "seconds": 0.3,
+   "total": 37
   },
   "CesiumAstro": {
    "ats": "lever",
    "board": "CesiumAstro",
    "matched": 1,
    "ok": true,
-   "seconds": 1.4,
-   "total": 351
+   "seconds": 1.3,
+   "total": 353
   },
   "Charles Schwab": {
    "ats": "workday",
@@ -313,8 +313,8 @@
    "board": "charterup",
    "matched": 0,
    "ok": true,
-   "seconds": 0.1,
-   "total": 19
+   "seconds": 0.2,
+   "total": 25
   },
   "Chime": {
    "ats": "greenhouse",
@@ -322,7 +322,7 @@
    "matched": 0,
    "ok": true,
    "seconds": 0.2,
-   "total": 73
+   "total": 72
   },
   "Civitech": {
    "ats": "lever",
@@ -337,7 +337,7 @@
    "board": "clearfield",
    "matched": 0,
    "ok": true,
-   "seconds": 0.1,
+   "seconds": 0.2,
    "total": 10
   },
   "Cloudflare": {
@@ -354,14 +354,14 @@
    "matched": 1,
    "ok": true,
    "seconds": 0.1,
-   "total": 122
+   "total": 124
   },
   "Commvault": {
    "ats": "greenhouse",
    "board": "commvault",
    "matched": 0,
    "ok": true,
-   "seconds": 0.1,
+   "seconds": 0.5,
    "total": 57
   },
   "Confluent": {
@@ -369,7 +369,7 @@
    "board": "confluent",
    "matched": 0,
    "ok": true,
-   "seconds": 0.0,
+   "seconds": 0.1,
    "total": 0
   },
   "Contoro Robotics": {
@@ -377,7 +377,7 @@
    "board": "contoro",
    "matched": 0,
    "ok": true,
-   "seconds": 0.1,
+   "seconds": 0.3,
    "total": 11
   },
   "CrowdStrike": {
@@ -385,8 +385,8 @@
    "board": "crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers",
    "matched": 0,
    "ok": true,
-   "seconds": 8.7,
-   "total": 143
+   "seconds": 8.4,
+   "total": 150
   },
   "Culture Amp": {
    "ats": "greenhouse",
@@ -394,14 +394,14 @@
    "matched": 0,
    "ok": true,
    "seconds": 0.3,
-   "total": 31
+   "total": 32
   },
   "DISCO": {
    "ats": "greenhouse",
    "board": "disco",
    "matched": 0,
    "ok": true,
-   "seconds": 0.2,
+   "seconds": 0.3,
    "total": 36
   },
   "DRW": {
@@ -409,16 +409,16 @@
    "board": "drweng",
    "matched": 0,
    "ok": true,
-   "seconds": 0.2,
-   "total": 164
+   "seconds": 0.3,
+   "total": 165
   },
   "Datadog": {
    "ats": "greenhouse",
    "board": "datadog",
    "matched": 0,
    "ok": true,
-   "seconds": 0.8,
-   "total": 395
+   "seconds": 0.5,
+   "total": 399
   },
   "Decagon": {
    "ats": "ashby",
@@ -439,7 +439,7 @@
    "board": "devrev",
    "matched": 0,
    "ok": true,
-   "seconds": 0.2,
+   "seconds": 0.3,
    "total": 40
   },
   "Dialpad": {
@@ -447,23 +447,23 @@
    "board": "dialpad",
    "matched": 0,
    "ok": true,
-   "seconds": 0.1,
-   "total": 14
+   "seconds": 0.2,
+   "total": 15
   },
   "DoorDash": {
    "ats": "greenhouse",
    "board": "doordashusa",
-   "matched": 2,
+   "matched": 1,
    "ok": true,
-   "seconds": 0.9,
-   "total": 435
+   "seconds": 0.7,
+   "total": 440
   },
   "Doxel": {
    "ats": "lever",
    "board": "doxel",
    "matched": 0,
    "ok": true,
-   "seconds": 0.6,
+   "seconds": 0.5,
    "total": 16
   },
   "Drover": {
@@ -471,7 +471,7 @@
    "board": "workshop-hiring",
    "matched": 0,
    "ok": true,
-   "seconds": 0.1,
+   "seconds": 0.2,
    "total": 4
   },
   "Dun & Bradstreet": {
@@ -479,8 +479,8 @@
    "board": "dnb",
    "matched": 0,
    "ok": true,
-   "seconds": 0.8,
-   "total": 101
+   "seconds": 1.8,
+   "total": 102
   },
   "Enverus": {
    "ats": "workday",
@@ -494,14 +494,14 @@
    "matched": 0,
    "ok": true,
    "seconds": 0.2,
-   "total": 130
+   "total": 131
   },
   "Esper": {
    "ats": "lever",
    "board": "esper",
    "matched": 0,
    "ok": true,
-   "seconds": 0.6,
+   "seconds": 0.7,
    "total": 7
   },
   "Expedia Group": {
@@ -509,15 +509,15 @@
    "board": "expedia.wd108.myworkdayjobs.com/search",
    "matched": 0,
    "ok": true,
-   "seconds": 4.6,
-   "total": 115
+   "seconds": 5.1,
+   "total": 120
   },
   "Fab2": {
    "ats": "ashby",
    "board": "Fab2",
    "matched": 0,
    "ok": true,
-   "seconds": 0.1,
+   "seconds": 0.2,
    "total": 59
   },
   "Fictiv/MISUMI Americas": {
@@ -525,7 +525,7 @@
    "board": "fictiv",
    "matched": 0,
    "ok": true,
-   "seconds": 0.1,
+   "seconds": 0.2,
    "total": 98
   },
   "Files.com": {
@@ -541,24 +541,24 @@
    "board": "flextronics.wd1.myworkdayjobs.com/careers",
    "matched": 0,
    "ok": true,
-   "seconds": 24.0,
-   "total": 152
+   "seconds": 15.1,
+   "total": 151
   },
   "Fluidstack": {
    "ats": "ashby",
    "board": "fluidstack",
    "matched": 1,
    "ok": true,
-   "seconds": 0.1,
-   "total": 255
+   "seconds": 0.3,
+   "total": 252
   },
   "Flynn Group of Companies": {
    "ats": "lever",
    "board": "flynncompanies",
    "matched": 0,
    "ok": true,
-   "seconds": 0.7,
-   "total": 169
+   "seconds": 0.6,
+   "total": 168
   },
   "Forcepoint": {
    "ats": "workday",
@@ -573,8 +573,8 @@
    "board": "foth",
    "matched": 0,
    "ok": true,
-   "seconds": 0.6,
-   "total": 63
+   "seconds": 6.3,
+   "total": 64
   },
   "G2": {
    "ats": "ashby",
@@ -589,7 +589,7 @@
    "board": "golfscopeinc",
    "matched": 0,
    "ok": true,
-   "seconds": 1.4,
+   "seconds": 0.2,
    "total": 0
   },
   "GlobalFoundries": {
@@ -597,7 +597,7 @@
    "board": "globalfoundries.wd1.myworkdayjobs.com/External",
    "matched": 0,
    "ok": true,
-   "seconds": 11.0,
+   "seconds": 9.9,
    "total": 176
   },
   "Gong": {
@@ -605,7 +605,7 @@
    "board": "gongio",
    "matched": 0,
    "ok": true,
-   "seconds": 0.1,
+   "seconds": 0.2,
    "total": 85
   },
   "Gopuff": {
@@ -613,15 +613,15 @@
    "board": "gopuff",
    "matched": 0,
    "ok": true,
-   "seconds": 2.0,
-   "total": 781
+   "seconds": 1.0,
+   "total": 782
   },
   "Graphcore": {
    "ats": "greenhouse",
    "board": "graphcore",
    "matched": 0,
    "ok": true,
-   "seconds": 0.2,
+   "seconds": 0.3,
    "total": 206
   },
   "H Company": {
@@ -629,7 +629,7 @@
    "board": "hcompany",
    "matched": 0,
    "ok": true,
-   "seconds": 0.0,
+   "seconds": 0.2,
    "total": 35
   },
   "Hadrian Automation": {
@@ -638,7 +638,7 @@
    "matched": 0,
    "ok": true,
    "seconds": 0.1,
-   "total": 163
+   "total": 165
   },
   "Handoff": {
    "ats": "lever",
@@ -654,14 +654,14 @@
    "matched": 0,
    "ok": true,
    "seconds": 0.1,
-   "total": 3
+   "total": 4
   },
   "Hudson River Trading": {
    "ats": "greenhouse",
    "board": "wehrtyou",
    "matched": 0,
    "ok": true,
-   "seconds": 0.1,
+   "seconds": 0.2,
    "total": 83
   },
   "Hyliion": {
@@ -677,7 +677,7 @@
    "board": "hypori",
    "matched": 0,
    "ok": true,
-   "seconds": 0.1,
+   "seconds": 0.2,
    "total": 17
   },
   "ICON": {
@@ -685,8 +685,8 @@
    "board": "iconcareers",
    "matched": 0,
    "ok": true,
-   "seconds": 0.1,
-   "total": 73
+   "seconds": 0.2,
+   "total": 70
   },
   "Infinitum": {
    "ats": "greenhouse",
@@ -709,7 +709,7 @@
    "board": "intel.wd1.myworkdayjobs.com/External",
    "matched": 0,
    "ok": true,
-   "seconds": 12.3,
+   "seconds": 12.2,
    "total": 177
   },
   "Interface": {
@@ -717,7 +717,7 @@
    "board": "interface",
    "matched": 0,
    "ok": true,
-   "seconds": 0.0,
+   "seconds": 0.1,
    "total": 3
   },
   "Intersect": {
@@ -725,7 +725,7 @@
    "board": "intersect",
    "matched": 0,
    "ok": true,
-   "seconds": 0.8,
+   "seconds": 0.6,
    "total": 26
   },
   "Jabil": {
@@ -733,15 +733,15 @@
    "board": "jabil.wd5.myworkdayjobs.com/Jabil_Careers",
    "matched": 0,
    "ok": true,
-   "seconds": 11.2,
-   "total": 189
+   "seconds": 10.9,
+   "total": 191
   },
   "Kakegroup": {
    "ats": "lever",
    "board": "kakegroup",
    "matched": 0,
    "ok": true,
-   "seconds": 4.8,
+   "seconds": 0.2,
    "total": 0
   },
   "Kendra Scott": {
@@ -761,7 +761,7 @@
    "board": "kickmaker",
    "matched": 0,
    "ok": true,
-   "seconds": 4.2,
+   "seconds": 0.6,
    "total": 39
   },
   "Kong": {
@@ -769,15 +769,15 @@
    "board": "kong",
    "matched": 0,
    "ok": true,
-   "seconds": 0.0,
-   "total": 106
+   "seconds": 0.2,
+   "total": 107
   },
   "Last Energy": {
    "ats": "lever",
    "board": "last-energy",
    "matched": 0,
    "ok": true,
-   "seconds": 0.4,
+   "seconds": 3.5,
    "total": 25
   },
   "Level": {
@@ -785,7 +785,7 @@
    "board": "level",
    "matched": 0,
    "ok": true,
-   "seconds": 0.1,
+   "seconds": 0.2,
    "total": 34
   },
   "Light": {
@@ -802,7 +802,7 @@
    "matched": 0,
    "ok": true,
    "seconds": 0.1,
-   "total": 9
+   "total": 8
   },
   "Line2": {
    "ats": "smartrecruiters",
@@ -818,23 +818,23 @@
    "matched": 0,
    "ok": true,
    "seconds": 0.1,
-   "total": 0
+   "total": 1
   },
   "LogicMonitor": {
    "ats": "greenhouse",
    "board": "logicmonitor",
    "matched": 0,
    "ok": true,
-   "seconds": 0.1,
-   "total": 41
+   "seconds": 0.2,
+   "total": 42
   },
   "Luxury Presence": {
    "ats": "lever",
    "board": "luxurypresence",
    "matched": 0,
    "ok": true,
-   "seconds": 0.6,
-   "total": 26
+   "seconds": 0.5,
+   "total": 28
   },
   "Manychat": {
    "ats": "greenhouse",
@@ -857,7 +857,7 @@
    "board": "mitsogoinc",
    "matched": 0,
    "ok": true,
-   "seconds": 0.1,
+   "seconds": 0.2,
    "total": 40
   },
   "Modern Intelligence": {
@@ -865,7 +865,7 @@
    "board": "ModernIntelligence",
    "matched": 0,
    "ok": true,
-   "seconds": 0.5,
+   "seconds": 0.4,
    "total": 5
   },
   "Mongodb": {
@@ -873,24 +873,24 @@
    "board": "mongodb",
    "matched": 0,
    "ok": true,
-   "seconds": 0.3,
-   "total": 370
+   "seconds": 0.4,
+   "total": 375
   },
   "Motive": {
    "ats": "greenhouse",
    "board": "gomotive",
    "matched": 0,
    "ok": true,
-   "seconds": 0.2,
-   "total": 183
+   "seconds": 0.6,
+   "total": 184
   },
   "Mudflap": {
    "ats": "ashby",
    "board": "mudflap",
    "matched": 0,
    "ok": true,
-   "seconds": 0.1,
-   "total": 20
+   "seconds": 0.2,
+   "total": 21
   },
   "Mythic": {
    "ats": "lever",
@@ -898,14 +898,14 @@
    "matched": 0,
    "ok": true,
    "seconds": 0.5,
-   "total": 28
+   "total": 29
   },
   "NODA AI": {
    "ats": "ashby",
    "board": "noda-ai",
    "matched": 0,
    "ok": true,
-   "seconds": 0.1,
+   "seconds": 0.2,
    "total": 30
   },
   "NVIDIA": {
@@ -913,15 +913,15 @@
    "board": "nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite",
    "matched": 0,
    "ok": true,
-   "seconds": 14.8,
-   "total": 213
+   "seconds": 15.0,
+   "total": 212
   },
   "NXP Semiconductors": {
    "ats": "workday",
    "board": "nxp.wd3.myworkdayjobs.com/careers",
    "matched": 0,
    "ok": true,
-   "seconds": 12.3,
+   "seconds": 14.2,
    "total": 183
   },
   "Navan": {
@@ -930,22 +930,22 @@
    "matched": 0,
    "ok": true,
    "seconds": 0.2,
-   "total": 231
+   "total": 229
   },
   "NetBrain": {
    "ats": "greenhouse",
    "board": "netbrain",
    "matched": 0,
    "ok": true,
-   "seconds": 0.3,
-   "total": 33
+   "seconds": 0.2,
+   "total": 32
   },
   "Nominal": {
    "ats": "lever",
    "board": "nominal",
    "matched": 0,
    "ok": true,
-   "seconds": 0.4,
+   "seconds": 1.6,
    "total": 0
   },
   "Notion": {
@@ -953,15 +953,15 @@
    "board": "notion",
    "matched": 0,
    "ok": true,
-   "seconds": 1.8,
-   "total": 150
+   "seconds": 0.1,
+   "total": 154
   },
   "Odeko": {
    "ats": "greenhouse",
    "board": "odeko",
    "matched": 0,
    "ok": true,
-   "seconds": 0.1,
+   "seconds": 0.2,
    "total": 25
   },
   "OneCrew": {
@@ -977,7 +977,7 @@
    "board": "onnitlabs",
    "matched": 0,
    "ok": true,
-   "seconds": 0.1,
+   "seconds": 0.2,
    "total": 5
   },
   "Orca Security": {
@@ -1002,7 +1002,7 @@
    "matched": 0,
    "ok": true,
    "seconds": 0.1,
-   "total": 17
+   "total": 16
   },
   "Ownwell": {
    "ats": "greenhouse",
@@ -1025,7 +1025,7 @@
    "board": "patsnap",
    "matched": 0,
    "ok": true,
-   "seconds": 0.4,
+   "seconds": 0.3,
    "total": 0
   },
   "Pigment": {
@@ -1033,7 +1033,7 @@
    "board": "pigment",
    "matched": 0,
    "ok": true,
-   "seconds": 0.8,
+   "seconds": 0.6,
    "total": 127
   },
   "Ping Identity": {
@@ -1041,7 +1041,7 @@
    "board": "pingidentity",
    "matched": 0,
    "ok": true,
-   "seconds": 0.1,
+   "seconds": 0.2,
    "total": 75
   },
   "Placer.ai": {
@@ -1065,15 +1065,15 @@
    "board": "procore.wd12.myworkdayjobs.com/Procore_External_Careers",
    "matched": 1,
    "ok": true,
-   "seconds": 6.3,
-   "total": 115
+   "seconds": 6.0,
+   "total": 112
   },
   "Q2": {
    "ats": "workday",
    "board": "q2ebanking.wd5.myworkdayjobs.com/q2",
    "matched": 0,
    "ok": true,
-   "seconds": 5.6,
+   "seconds": 5.5,
    "total": 55
   },
   "Qualia": {
@@ -1090,7 +1090,7 @@
    "matched": 0,
    "ok": true,
    "seconds": 0.1,
-   "total": 20
+   "total": 19
   },
   "Ramp": {
    "ats": "ashby",
@@ -1098,7 +1098,7 @@
    "matched": 0,
    "ok": true,
    "seconds": 0.1,
-   "total": 170
+   "total": 171
   },
   "RealWork Labs": {
    "ats": "lever",
@@ -1137,7 +1137,7 @@
    "board": "restaurant365",
    "matched": 0,
    "ok": true,
-   "seconds": 0.7,
+   "seconds": 0.6,
    "total": 38
   },
   "Resurgent Industries": {
@@ -1145,7 +1145,7 @@
    "board": "resurgent-industries",
    "matched": 0,
    "ok": true,
-   "seconds": 0.1,
+   "seconds": 0.2,
    "total": 15
   },
   "Rethink": {
@@ -1162,7 +1162,7 @@
    "matched": 0,
    "ok": true,
    "seconds": 0.1,
-   "total": 44
+   "total": 45
   },
   "Ridgeline": {
    "ats": "greenhouse",
@@ -1170,15 +1170,15 @@
    "matched": 0,
    "ok": true,
    "seconds": 0.1,
-   "total": 27
+   "total": 28
   },
   "Riot Games": {
    "ats": "greenhouse",
    "board": "riotgames",
    "matched": 0,
    "ok": true,
-   "seconds": 0.2,
-   "total": 188
+   "seconds": 0.3,
+   "total": 186
   },
   "Roku": {
    "ats": "greenhouse",
@@ -1194,22 +1194,22 @@
    "matched": 0,
    "ok": true,
    "seconds": 0.2,
-   "total": 38
+   "total": 39
   },
   "Rubrik": {
    "ats": "greenhouse",
    "board": "rubrik",
    "matched": 0,
    "ok": true,
-   "seconds": 0.2,
-   "total": 149
+   "seconds": 0.3,
+   "total": 151
   },
   "SQUIRE": {
    "ats": "lever",
    "board": "getsquire",
    "matched": 0,
    "ok": true,
-   "seconds": 0.8,
+   "seconds": 0.3,
    "total": 0
   },
   "SafetyCulture": {
@@ -1217,7 +1217,7 @@
    "board": "safetyculture-2",
    "matched": 0,
    "ok": true,
-   "seconds": 0.9,
+   "seconds": 0.2,
    "total": 0
   },
   "SailPoint": {
@@ -1225,16 +1225,16 @@
    "board": "sailpoint.wd1.myworkdayjobs.com/SailPoint",
    "matched": 0,
    "ok": true,
-   "seconds": 7.2,
-   "total": 86
+   "seconds": 8.2,
+   "total": 87
   },
   "Salesforce": {
    "ats": "workday",
    "board": "salesforce.wd12.myworkdayjobs.com/External_Career_Site",
    "matched": 0,
    "ok": true,
-   "seconds": 9.0,
-   "total": 131
+   "seconds": 8.4,
+   "total": 132
   },
   "Samsara": {
    "ats": "greenhouse",
@@ -1242,23 +1242,23 @@
    "matched": 0,
    "ok": true,
    "seconds": 0.4,
-   "total": 310
+   "total": 315
   },
   "Samsung Semiconductor": {
    "ats": "workday",
    "board": "sec.wd3.myworkdayjobs.com/Samsung_Careers",
    "matched": 0,
    "ok": true,
-   "seconds": 15.9,
-   "total": 175
+   "seconds": 17.6,
+   "total": 171
   },
   "Saronic": {
    "ats": "ashby",
    "board": "saronic",
    "matched": 0,
    "ok": true,
-   "seconds": 0.1,
-   "total": 269
+   "seconds": 0.2,
+   "total": 270
   },
   "Scaffold": {
    "ats": "ashby",
@@ -1282,7 +1282,7 @@
    "matched": 0,
    "ok": true,
    "seconds": 0.1,
-   "total": 4
+   "total": 3
   },
   "Serval": {
    "ats": "ashby",
@@ -1290,7 +1290,7 @@
    "matched": 0,
    "ok": true,
    "seconds": 0.1,
-   "total": 63
+   "total": 65
   },
   "Seven AI": {
    "ats": "ashby",
@@ -1305,7 +1305,7 @@
    "board": "shopback-2",
    "matched": 0,
    "ok": true,
-   "seconds": 1.0,
+   "seconds": 0.5,
    "total": 79
   },
   "Siete Foods": {
@@ -1313,7 +1313,7 @@
    "board": "sietefoods-2",
    "matched": 0,
    "ok": true,
-   "seconds": 0.5,
+   "seconds": 0.4,
    "total": 9
   },
   "Signpost": {
@@ -1329,7 +1329,7 @@
    "board": "siliconhills",
    "matched": 0,
    "ok": true,
-   "seconds": 0.1,
+   "seconds": 0.2,
    "total": 1
   },
   "Silktide": {
@@ -1361,7 +1361,7 @@
    "board": "skyways",
    "matched": 0,
    "ok": true,
-   "seconds": 0.6,
+   "seconds": 0.4,
    "total": 20
   },
   "Snowflake": {
@@ -1377,7 +1377,7 @@
    "board": "sonarsource",
    "matched": 0,
    "ok": true,
-   "seconds": 2.3,
+   "seconds": 0.7,
    "total": 121
   },
   "SpaceX": {
@@ -1385,16 +1385,16 @@
    "board": "spacex",
    "matched": 0,
    "ok": true,
-   "seconds": 2.4,
-   "total": 2895
+   "seconds": 1.9,
+   "total": 2892
   },
   "SpotOn": {
    "ats": "ashby",
    "board": "spoton",
    "matched": 1,
    "ok": true,
-   "seconds": 0.1,
-   "total": 75
+   "seconds": 0.2,
+   "total": 76
   },
   "SpyCloud": {
    "ats": "greenhouse",
@@ -1409,7 +1409,7 @@
    "board": "steadily",
    "matched": 0,
    "ok": true,
-   "seconds": 0.1,
+   "seconds": 0.2,
    "total": 33
   },
   "Strategy (MicroStrategy)": {
@@ -1418,14 +1418,14 @@
    "matched": 0,
    "ok": true,
    "seconds": 0.7,
-   "total": 38
+   "total": 40
   },
   "SunWorks Landscape Partners": {
    "ats": "greenhouse",
    "board": "sunworks",
    "matched": 0,
    "ok": true,
-   "seconds": 0.2,
+   "seconds": 0.1,
    "total": 14
   },
   "T1 Energy": {
@@ -1433,15 +1433,15 @@
    "board": "t1energy",
    "matched": 0,
    "ok": true,
-   "seconds": 0.7,
-   "total": 59
+   "seconds": 0.2,
+   "total": 58
   },
   "TSMG": {
    "ats": "lever",
    "board": "tsmg",
    "matched": 0,
    "ok": true,
-   "seconds": 2.0,
+   "seconds": 2.1,
    "total": 4477
   },
   "TTEC Digital": {
@@ -1449,7 +1449,7 @@
    "board": "ttecdigital",
    "matched": 0,
    "ok": true,
-   "seconds": 0.6,
+   "seconds": 0.7,
    "total": 59
   },
   "Talkdesk": {
@@ -1457,15 +1457,15 @@
    "board": "talkdesk2",
    "matched": 1,
    "ok": true,
-   "seconds": 0.4,
-   "total": 39
+   "seconds": 0.5,
+   "total": 40
   },
   "Tavily": {
    "ats": "ashby",
    "board": "tavily",
    "matched": 0,
    "ok": true,
-   "seconds": 0.3,
+   "seconds": 0.5,
    "total": 18
   },
   "Tecovas": {
@@ -1473,7 +1473,7 @@
    "board": "tecovas",
    "matched": 0,
    "ok": true,
-   "seconds": 0.4,
+   "seconds": 0.5,
    "total": 78
   },
   "Tenstorrent": {
@@ -1482,7 +1482,7 @@
    "matched": 0,
    "ok": true,
    "seconds": 0.6,
-   "total": 124
+   "total": 126
   },
   "The American Housing Corporation": {
    "ats": "ashby",
@@ -1497,7 +1497,7 @@
    "board": "thepeoplebrand",
    "matched": 0,
    "ok": true,
-   "seconds": 0.5,
+   "seconds": 1.3,
    "total": 20
   },
   "Theori": {
@@ -1505,7 +1505,7 @@
    "board": "theori",
    "matched": 0,
    "ok": true,
-   "seconds": 0.1,
+   "seconds": 0.3,
    "total": 7
   },
   "Trunk Tools": {
@@ -1513,7 +1513,7 @@
    "board": "Trunk%20Tools",
    "matched": 0,
    "ok": true,
-   "seconds": 0.1,
+   "seconds": 0.5,
    "total": 16
   },
   "TrustRadius": {
@@ -1521,7 +1521,7 @@
    "board": "TrustRadius",
    "matched": 0,
    "ok": true,
-   "seconds": 0.4,
+   "seconds": 0.5,
    "total": 4
   },
   "UpGuard Inc.": {
@@ -1529,7 +1529,7 @@
    "board": "upguard",
    "matched": 1,
    "ok": true,
-   "seconds": 0.1,
+   "seconds": 0.4,
    "total": 18
   },
   "Upstart": {
@@ -1537,16 +1537,16 @@
    "board": "upstart",
    "matched": 0,
    "ok": true,
-   "seconds": 0.3,
-   "total": 88
+   "seconds": 0.2,
+   "total": 86
   },
   "Visa": {
    "ats": "workday",
    "board": "visa.wd5.myworkdayjobs.com/Visa",
    "matched": 1,
    "ok": true,
-   "seconds": 13.6,
-   "total": 121
+   "seconds": 12.9,
+   "total": 122
   },
   "VulnCheck": {
    "ats": "greenhouse",
@@ -1554,14 +1554,14 @@
    "matched": 0,
    "ok": true,
    "seconds": 0.1,
-   "total": 13
+   "total": 12
   },
   "Way": {
    "ats": "lever",
    "board": "Way",
    "matched": 0,
    "ok": true,
-   "seconds": 1.4,
+   "seconds": 0.4,
    "total": 9
   },
   "Weedmaps": {
@@ -1570,7 +1570,7 @@
    "matched": 0,
    "ok": true,
    "seconds": 0.1,
-   "total": 8
+   "total": 10
   },
   "Whole Foods Market": {
    "ats": "workday",
@@ -1583,8 +1583,8 @@
    "board": "Wise",
    "matched": 0,
    "ok": true,
-   "seconds": 2.5,
-   "total": 427
+   "seconds": 2.7,
+   "total": 428
   },
   "Wursta": {
    "ats": "ashby",
@@ -1599,7 +1599,7 @@
    "board": "yeticoolers.wd5.myworkdayjobs.com/YETI",
    "matched": 0,
    "ok": true,
-   "seconds": 6.9,
+   "seconds": 11.6,
    "total": 68
   },
   "ZenBusiness": {
@@ -1615,7 +1615,7 @@
    "board": "flyzipline",
    "matched": 2,
    "ok": true,
-   "seconds": 0.3,
+   "seconds": 0.4,
    "total": 348
   },
   "eBay": {
@@ -1623,7 +1623,7 @@
    "board": "ebay.wd5.myworkdayjobs.com/apply",
    "matched": 0,
    "ok": true,
-   "seconds": 13.7,
+   "seconds": 11.9,
    "total": 147
   },
   "ePayPolicy": {
@@ -1631,7 +1631,7 @@
    "board": "epay-policy",
    "matched": 0,
    "ok": true,
-   "seconds": 0.3,
+   "seconds": 0.2,
    "total": 9
   },
   "inKind": {
@@ -1640,15 +1640,15 @@
    "matched": 0,
    "ok": true,
    "seconds": 0.1,
-   "total": 13
+   "total": 14
   },
   "n8n": {
    "ats": "ashby",
    "board": "n8n",
    "matched": 0,
    "ok": true,
-   "seconds": 0.0,
-   "total": 49
+   "seconds": 0.3,
+   "total": 48
   },
   "webAI": {
    "ats": "ashby",
@@ -1659,5 +1659,5 @@
    "total": 17
   }
  },
- "updated_at": "2026-11-06T16:47:15.753019+00:00"
+ "updated_at": "2026-11-06T23:09:38.908150+00:00"
 }
